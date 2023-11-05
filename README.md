@@ -1,14 +1,14 @@
-# Nerfies
+# DPT
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the [DPT website](https://dpt.github.io).
 
 If you find Nerfies useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@article{li2023disentangled
+  author    = {Li, Yanda and Huang, Zilong and Yu, Gang and Chen, Ling and Wei, Yunchao and Jiao, Jianbo},
+  title     = {Disentangled Pre-training for Image Matting},
+  journal   = {WACV},
+  year      = {2024},
 }
 ```
 
